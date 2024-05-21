@@ -1,0 +1,11 @@
+com\mycompany\expr_parser\ExpressoesBaseListener.class
+com\mycompany\expr_parser\ExpressoesParser.class
+com\mycompany\expr_parser\ExpressoesParser$FatorContext.class
+com\mycompany\expr_parser\ExpressoesParser$ProgramaContext.class
+com\mycompany\expr_parser\ExpressoesParser$ExpressaoContext.class
+com\mycompany\expr_parser\ExpressoesListener.class
+com\mycompany\expr_parser\Principal.class
+com\mycompany\expr_parser\ExpressoesParser$Expressao2Context.class
+com\mycompany\expr_parser\ExpressoesParser$TermoContext.class
+com\mycompany\expr_parser\ExpressoesParser$Termo2Context.class
+com\mycompany\expr_parser\ExpressoesLexer.class
