@@ -1,0 +1,17 @@
+com\mycompany\expr_parser3\ExpressoesBaseListener.class
+com\mycompany\expr_parser3\Escopos.class
+com\mycompany\expr_parser3\ExpressoesVisitor.class
+com\mycompany\expr_parser3\ExpressoesParser$ListaDeclContext.class
+com\mycompany\expr_parser3\Expr_parser3.class
+com\mycompany\expr_parser3\Principal.class
+com\mycompany\expr_parser3\ExpressoesParser.class
+com\mycompany\expr_parser3\ExpressoesListener.class
+com\mycompany\expr_parser3\EntradaTabelaDeSimbolos.class
+com\mycompany\expr_parser3\Calculador.class
+com\mycompany\expr_parser3\ExpressoesLexer.class
+com\mycompany\expr_parser3\ExpressoesParser$DeclContext.class
+com\mycompany\expr_parser3\ExpressoesBaseVisitor.class
+com\mycompany\expr_parser3\ExpressoesParser$ExpContext.class
+com\mycompany\expr_parser3\ExpressoesParser$ProgramaContext.class
+com\mycompany\expr_parser3\ExpressoesParser$TermoContext.class
+com\mycompany\expr_parser3\TabelaDeSimbolos.class
